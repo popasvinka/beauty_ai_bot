@@ -4,7 +4,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 from PIL import Image
 import io
 
-TOKEN = "ТВОЙ_ТОКЕН_ОТ_BOTFATHER"
+TOKEN = "7933646092:AAHf0W9gthyZJYQ1R4nWeCGXcXkcrN7xZqU"
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
